@@ -1,4 +1,1 @@
-# Von Wood
-
-Buy wood, sell wood, VonWood.
-
+![](https://github.com/VonWood/.github/raw/main/profile/assets/logo-medium.gif)
