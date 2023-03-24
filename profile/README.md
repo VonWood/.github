@@ -1,1 +1,1 @@
-![](https://github.com/VonWood/.github/raw/main/profile/assets/logo-medium.gif)
+![](https://github.com/VonWood/.github/raw/main/profile/assets/logo-small.gif)
